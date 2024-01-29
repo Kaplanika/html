@@ -1,0 +1,24 @@
+h1 {
+	text-align: center;
+	font-family: 'Comic Sans MS', cursive;
+	background-color:black;color:white;
+	
+	
+}
+
+h2 {
+	
+	font-family: 'Comic Sans MS', cursive;
+	
+}
+
+body {
+	color:black;
+	font-family: Copperplate, Papyrus, fantasy;
+	font-size:18px;
+	font-weight: 200;
+	
+	background-image: url("dc Background.jpg");
+	background-attachment:fixed;
+	background-size:100% 100%;
+}

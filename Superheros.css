@@ -1,0 +1,29 @@
+body {
+	background-image: url("color.jpg");
+	background-attachment:fixed;
+	background-size:100% 100%;
+	
+	color:white;
+	font-family: Copperplate, Papyrus, fantasy;
+	font-size:18px;
+	font-weight: 200;
+}
+h1 {
+	text-align: center;
+	font-family: 'Comic Sans MS', cursive;
+	background-color:white;color:BLACK;
+	
+	
+}
+
+h2 {
+	text-align: center;
+	font-family: 'Comic Sans MS', cursive;
+	background-color:black;color:white;
+}
+
+img {
+ width:300;
+ height:340;
+ border:3px solid white
+}
